@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nato: Warm words but a diplomatic reality check for Ukraine",
+    "description": "President Zelensky wants assurances Ukraine will join Nato after the war, but members chose strategic caution.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66183066",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F650/production/_130365036_mediaitem130365035.jpg",
+    "publishedAt": "2023-07-12T18:52:18.2675271Z",
+    "content": "Volodymyr Zelensky may or may not be a Rolling Stones fan - but after this Nato summit, he is probably familiar with their song entitled You Can't Always Get What You Want. \r\nUkraine's president came… [+4474 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine: Russian general reported killed in attack on Berdyansk hotel",
+    "description": "Lt Gen Oleg Tsokov's death is announced on TV and by Russian war channels on social media.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66171638",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/102CF/production/_130355266_tsokovcomposite.jpg",
+    "publishedAt": "2023-07-12T18:37:17.9843761Z",
+    "content": "A senior Russian general has been killed in a missile strike in Ukraine, Russian sources have said.\r\nLt Gen Oleg Tsokov is said to have died in a strike on a hotel housing Russian military commanders… [+3054 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Missing German man's remains found in Thailand freezer",
+    "description": "The Pattaya-based businessman's dismembered body turned up after he had gone missing for a week.",
+    "url": "http://www.bbc.co.uk/news/world-asia-66172190",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/57C1/production/_130356422_gettyimages-641925028.jpg",
+    "publishedAt": "2023-07-12T16:52:18.9218664Z",
+    "content": "Thai authorities have found the dismembered body of a missing German businessman in a freezer.\r\nThe search for Hans-Peter Mack, 62, reached a tragic end on Monday night as police located his remains … [+1674 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Italian uproar over judge's 10-second groping rule",
+    "description": "Young Italians object to the acquittal of a school caretaker who admitted groping a teenage student.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66174352",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/104A6/production/_130362766_d4efcf87-7686-4c6f-9dcf-8839d4b99fc4.jpg",
+    "publishedAt": "2023-07-12T16:07:23.3283643Z",
+    "content": "Does it count as sexual harassment if an assault lasts less than 10 seconds? \r\nMany young people in Italy are expressing outrage on social media, after a judge cleared a school caretaker of groping a… [+3304 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "BBC presenter row: Jeremy Vine repeats calls for BBC presenter to name himself",
+    "description": "BBC radio host Jeremy Vine says the presenter should \"show some degree of concern\" for innocent colleagues who have been falsely accused.",
+    "url": "http://www.bbc.co.uk/news/live/uk-66159469",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-07-12T15:52:28.2968556Z",
+    "content": "Clive Lewis says he wants to wait for the outcome of any investigationImage caption: Clive Lewis says he wants to wait for the outcome of any investigation\r\nLabour MP Clive Lewis has said he is alrea… [+1673 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US inflation at slowest rate in more than two years",
+    "description": "Inflation rose by 3% in the year to June but US interest rates are expected to rise again.",
+    "url": "http://www.bbc.co.uk/news/business-66178936",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0650/production/_130361610_manshopping.png",
+    "publishedAt": "2023-07-12T14:22:25.124959Z",
+    "content": "The rate of price growth in the US dropped to its slowest pace in more than two years, helped by cheaper used cars. \r\nInflation rose 3% in the year to June, according to data, from 4% in May.\r\nInflat… [+1590 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "FBI Director Christopher Wray to face Republican critics in Congress - live updates",
+    "description": "Christopher Wray is expected to be asked critical questions from some House Republicans.",
+    "url": "http://www.bbc.co.uk/news/live/world-us-canada-66034027",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-07-12T14:07:29.4385773Z",
+    "content": "The committees website says it acts as the lawyer for the House of Representatives.\r\nPerhaps the most notable role it serves is during impeachment proceedings. \r\nThe committee approved impeachment re… [+421 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Iowa's Republican legislature passes six-week abortion ban",
+    "description": "Iowa joins several other Midwest states in bringing new restrictions since Roe V Wade was overturned.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66178728",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13638/production/_130361497_331319f572faff59ebee502797a27b3d243d99320_21_1200_6751000x563.jpg",
+    "publishedAt": "2023-07-12T13:52:20.2041401Z",
+    "content": "Iowa's Republican-led legislature has passed a bill banning most abortions after six weeks. \r\nBoth the state's Senate and House passed the legislation on Tuesday night after Republican Governor Kim R… [+1885 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "North Korea fires intercontinental ballistic missile after threatening US",
+    "description": "The launch comes after Pyongyang accused the US military of repeated air incursions.",
+    "url": "http://www.bbc.co.uk/news/world-asia-66172284",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2ACB/production/_130355901_3d0f8b82d8f141e63cf8d7fec4a4615faea8b8a0.jpg",
+    "publishedAt": "2023-07-12T02:22:13.8447068Z",
+    "content": "North Korea has fired a suspected intercontinental ballistic missile (ICBM), Japanese officials report.\r\nThe long-range missile has been in flight for more than an hour and is expected to land short … [+712 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US storms: 'All hands on deck' as floods deluge US north-east",
+    "description": "Crews from several US states converge on Vermont where towns have been cut off by the inundation.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66154757",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10651/production/_130335176_untitled.png",
+    "publishedAt": "2023-07-11T00:07:20.7655743Z",
+    "content": "Media caption, New York flooding: Footage shows submerged streets\r\nMore than 13 million people in the US north-east are under flood alerts as a deadly storm that has already caused widespread damage … [+3454 chars]"
+    }
+    ]
+    }
